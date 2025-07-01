@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Cor quando o item estiver selecionado (checked) -->
+    <item android:color="@color/colorPrimaryDark"
+        android:state_checked="true" />
+
+    <!-- Cor quando o item NÃO estiver selecionado -->
+    <item android:color="@color/red"/>
+
+    <item android:color="@color/white"
+        android:state_drag_hovered="true"/>
+</selector>

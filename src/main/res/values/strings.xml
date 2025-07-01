@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="title_activity_emergency">Emergency_Activity</string>
+
+    <string name="nav_home">Página Inicial</string>
+    <string name="nav_salvos">Salvos</string>
+    <string name="nav_primeiros_socorros">Primeiros Socorros</string>
+    <string name="nav_aprender">Aprender</string>
+    <string name="nav_perfil">Perfil</string>
+
+</resources>
+
