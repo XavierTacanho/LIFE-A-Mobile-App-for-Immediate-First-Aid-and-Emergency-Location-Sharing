@@ -41,8 +41,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <!-- Declara a Activity de localização -->
-        <activity android:name=".gps_teste" />
+
         <!-- Declara a Activity de registo -->
         <activity android:name=".Register_Activity" />
         <!-- Declara a Activity de registo de emergencias -->

@@ -6,8 +6,6 @@
         android:state_checked="true" />
 
     <!-- Cor quando o item NÃO estiver selecionado -->
-    <item android:color="@color/red"/>
+    <item android:color="@color/white"/>
 
-    <item android:color="@color/white"
-        android:state_drag_hovered="true"/>
 </selector>

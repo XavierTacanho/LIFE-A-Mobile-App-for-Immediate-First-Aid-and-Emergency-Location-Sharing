@@ -86,22 +86,7 @@
             android:orientation="horizontal"
             android:layout_marginTop="8dp"
             android:gravity="center">
-            
-            <ImageView
-                android:layout_width="64dp"
-                android:layout_height="64dp"
-                android:layout_margin="16dp"
-                android:id="@+id/goncalo_btn"
-                android:src="@drawable/goncalo" >
-            </ImageView>
 
-            <ImageView
-                android:layout_width="64dp"
-                android:layout_height="64dp"
-                android:layout_margin="16dp"
-                android:id="@+id/tartaruga_btn"
-                android:src="@drawable/tartaruga">
-            </ImageView>
 
         </LinearLayout>
 
